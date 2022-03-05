@@ -21,7 +21,7 @@
 
 ## 技能点
 
-- 熟悉Kotlin
+- 熟悉Kotlin/C#
 - 熟悉MVVM架构设计
 - 熟练使用6k显示器
 - 熟悉iMac/MacBookPro/MacMini
@@ -29,6 +29,7 @@
 - 擅长组合开发
 - 熟悉Git/SVN代码版本控制管理
 - 熟悉使用Mac/Windows/Linux
+- 面向主流搜索引擎变成
 
 
 
@@ -70,7 +71,7 @@
 
 
 
-### 网吧自助开户
+#### 网吧自助开户
 
 2019.05 - 至今	Android工程师
 
@@ -97,7 +98,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 
 - 负责项目的开发和维护
 
-### 无人值守人脸识别
+#### 无人值守人脸识别
 
 2018.10 - 2019.04	Android工程师
 
@@ -107,7 +108,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 - 负责Android主板线路的安装与维护
 - 负责球场闸机设备的电路安装与维护
 
-### 龙腾畅想管理软件
+#### 龙腾畅想管理软件
 
 2015.07 - 2017.02	Android工程师
 
@@ -116,7 +117,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 - 负责项目的后续需求开发与维护
 - 参加项目基础框架的选型与开发
 
-### 卡特金服
+#### 卡特金服
 
 2018.10 - 2018.12	Android工程师
 
@@ -124,7 +125,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 
 - 负责项目的开发与维护
 
-### [IDCardCheck](https://github.com/SilverIceKey/IDCardCheck)
+#### [IDCardCheck](https://github.com/SilverIceKey/IDCardCheck)
 
 2019.01 - 2019.04	Android工程师
 
@@ -132,7 +133,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 
 - 负责项目的开发
 
-### [CircleIndicatorView](https://github.com/SilverIceKey/CircleIndicatorView)
+#### [CircleIndicatorView](https://github.com/SilverIceKey/CircleIndicatorView)
 
 2019.04 - 2019.04	Android工程师
 
@@ -140,7 +141,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 
 - 负责项目的开发
 
-### [ChangeFileName](https://github.com/SilverIceKey/ChangeFileName)
+#### [ChangeFileName](https://github.com/SilverIceKey/ChangeFileName)
 
 2017.03 - 至今	C#工程师
 
@@ -148,7 +149,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 
 - 负责项目的开发与维护已经需求确认
 
-### [SKExtension](https://github.com/SilverIceKey/SKExtension)
+#### [SKExtension](https://github.com/SilverIceKey/SKExtension)
 
 2021.10 - 至今	Android工程师
 
@@ -157,7 +158,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 - 负责库的开发与维护
 - 该库使用git submodule进行集成管理
 
-### [StudyNote](https://github.com/SilverIceKey/StudyNote)
+#### [StudyNote](https://github.com/SilverIceKey/StudyNote)
 
 本项目主要用于记录生活中我的各种各样收获，不定期更新。
 
