@@ -125,7 +125,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 
 - 负责项目的开发与维护
 
-#### [IDCardCheck](https://github.com/SilverIceKey/IDCardCheck)
+#### [opencv卡片检测](https://github.com/SilverIceKey/IDCardCheck)
 
 2019.01 - 2019.04	Android工程师
 
@@ -133,15 +133,15 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 
 - 负责项目的开发
 
-#### [CircleIndicatorView](https://github.com/SilverIceKey/CircleIndicatorView)
+#### [圆形指示器](https://github.com/SilverIceKey/CircleIndicatorView)
 
 2019.04 - 2019.04	Android工程师
 
-圆形指示器。圆形指示器想法源于HenCoder(打个小广告)中关于View的文章后的一个Demo实践，指示器支持自定义format文本显示，支持进度条的宽度，样式修改，支持进度条的多角度多颜色添加，多角度渐变色，支持progress的设置
+圆形指示器想法源于HenCoder(打个小广告)中关于View的文章后的一个Demo实践，指示器支持自定义format文本显示，支持进度条的宽度，样式修改，支持进度条的多角度多颜色添加，多角度渐变色，支持progress的设置
 
 - 负责项目的开发
 
-#### [ChangeFileName](https://github.com/SilverIceKey/ChangeFileName)
+#### [文件名称修改器](https://github.com/SilverIceKey/ChangeFileName)
 
 2017.03 - 至今	C#工程师
 
@@ -149,7 +149,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 
 - 负责项目的开发与维护已经需求确认
 
-#### [SKExtension](https://github.com/SilverIceKey/SKExtension)
+#### [Android扩展库](https://github.com/SilverIceKey/SKExtension)
 
 2021.10 - 至今	Android工程师
 
@@ -158,7 +158,7 @@ Android端对接移动自助设备进行定制开发，使用第三方人脸技�
 - 负责库的开发与维护
 - 该库使用git submodule进行集成管理
 
-#### [StudyNote](https://github.com/SilverIceKey/StudyNote)
+#### [学习笔记](https://github.com/SilverIceKey/StudyNote)
 
 本项目主要用于记录生活中我的各种各样收获，不定期更新。
 
