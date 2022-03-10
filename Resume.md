@@ -23,6 +23,7 @@
 
 - 熟悉Kotlin/C#
 - 熟悉MVVM架构设计
+- 熟悉TCP/IP
 - 熟练使用6k显示器
 - 熟悉iMac/MacBookPro/MacMini
 - 熟悉数据库/应用存储
