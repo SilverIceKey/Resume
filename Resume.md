@@ -23,13 +23,14 @@
 
 - 熟悉Kotlin/C#
 - 熟悉MVVM架构设计
+- 熟悉TCP/IP
 - 熟练使用6k显示器
 - 熟悉iMac/MacBookPro/MacMini
 - 熟悉数据库/应用存储
 - 擅长组合开发
 - 熟悉Git/SVN代码版本控制管理
 - 熟悉使用Mac/Windows/Linux
-- 面向主流搜索引擎变成
+- 面向主流搜索引擎开发
 
 
 
